@@ -1,6 +1,6 @@
 ﻿#include<stdio.h>
 #include<locale.h>
-void main(void)
+void main()
 {
 	setlocale(LC_CTYPE, "RUS");
 	puts("       /\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
